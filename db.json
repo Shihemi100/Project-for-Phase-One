@@ -1,0 +1,73 @@
+{
+    "venues": [
+      {
+        "id": 1,
+        "name": "Safari Park Hotel",
+        "location": "Nairobi",
+        "convenience": "Spacious gardens and conference halls",
+        "price": 50000
+      },
+      {
+        "id": 2,
+        "name": "Villa Rosa Kempinski",
+        "location": "Nairobi",
+        "convenience": "Luxury setting with high-end services",
+        "price": 100000
+      },
+      {
+        "id": 3,
+        "name": "Diani Reef Beach Resort",
+        "location": "Mombasa",
+        "convenience": "Beautiful beach views with resort facilities",
+        "price": 80000
+      },
+      {
+        "id": 4,
+        "name": "Great Rift Valley Lodge",
+        "location": "Naivasha",
+        "convenience": "Serene location with scenic views",
+        "price": 60000
+      },
+      {
+        "id": 5,
+        "name": "Enashipai Resort & Spa",
+        "location": "Naivasha",
+        "convenience": "Perfect for retreats and weddings",
+        "price": 75000
+      },
+      {
+    "id": 6,
+    "name" : "Langata Botanical Gardens",
+    "location": "Nairobi",
+    "convenience": "Spacious,easily accessible and serene environment",
+    "price": "1000"
+     },
+     {
+    "id": "7",
+    "name" : "Paradise Gardens",
+    "location": "Kiambu",
+    "convenience":"Great space and Beautiful scenery",
+    "price":"500"
+    },
+    {"id":"8",
+"name": "Paradise Lost",
+"location": "Kiambu",
+"convenience":"Full of activities e.g; horse-riding",
+"price":"Charged per activity"
+},
+{"id":"8",
+"name": "Zeriniti House",
+"location": "Kiambu",
+"convenience":"reath-taking and posh views",
+"price":"2000"
+},
+{
+"id":"9",
+"name": "Serena Beach Resort & Spa",
+"location": "Mombasa",
+"convenience":"Sunny-sideup",
+"price":"45000"
+}
+    ]
+  }
+  

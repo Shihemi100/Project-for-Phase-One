@@ -1,0 +1,69 @@
+body {
+    background-color: pink;
+   font-family:Arial, sans-serif;
+    text-align: center;
+}
+
+/* Venues be displayed horizontally */
+.venue-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+/*venue card */
+.venue-card {
+    border: 2px solid #ff69b4;
+    border-radius: 8px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #ffccff; 
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.sidebar h2 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.sidebar input, .sidebar button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.sidebar button {
+    background-color: #ff66b2;
+    color: white;
+    cursor: pointer;
+}
+
+.sidebar button:hover {
+    background-color: #ff3385;
+}
+
+.sidebar .restaurant-option {
+    margin-top: 20px;
+}
+.main-content {
+    margin-left: 270px; 
+    padding: 20px;
+}
